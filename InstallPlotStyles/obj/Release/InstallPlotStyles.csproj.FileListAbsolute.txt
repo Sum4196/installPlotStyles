@@ -1,0 +1,6 @@
+C:\Users\mmendenh\Documents\Projects\installPlotStyles\InstallPlotStyles\bin\Release\InstallPlotStyles.exe.config
+C:\Users\mmendenh\Documents\Projects\installPlotStyles\InstallPlotStyles\bin\Release\InstallPlotStyles.exe
+C:\Users\mmendenh\Documents\Projects\installPlotStyles\InstallPlotStyles\bin\Release\InstallPlotStyles.pdb
+C:\Users\mmendenh\Documents\Projects\installPlotStyles\InstallPlotStyles\obj\Release\InstallPlotStyles.csproj.CoreCompileInputs.cache
+C:\Users\mmendenh\Documents\Projects\installPlotStyles\InstallPlotStyles\obj\Release\InstallPlotStyles.exe
+C:\Users\mmendenh\Documents\Projects\installPlotStyles\InstallPlotStyles\obj\Release\InstallPlotStyles.pdb
